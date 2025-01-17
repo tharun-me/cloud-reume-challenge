@@ -36,6 +36,7 @@ I have taken the **Cloud Resume Challenge** which is an exciting hands-on projec
 
 ## 👨🏻‍💻Live Demo 👉 [Visit My Website](https://djt99ca169bs1.cloudfront.net) ✨
 
+---
 
 ## 🚀 Quick Start  
 1. 🖥️ **Clone** the repository.  
