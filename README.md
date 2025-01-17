@@ -30,9 +30,12 @@ I have taken the **Cloud Resume Challenge** which is an exciting hands-on projec
 ## 👨🏻‍💻 Architecture
 
 
-
+![AWS-Architecture-Diagram](portfolio/assets/images/AWS-Architecture-Cloud-resume-challenge-1.png)
 
 ---
+
+## 👨🏻‍💻Live Demo 👉 [Visit My Website](https://djt99ca169bs1.cloudfront.net) ✨
+
 
 ## 🚀 Quick Start  
 1. 🖥️ **Clone** the repository.  
